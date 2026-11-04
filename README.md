@@ -1,3 +1,5 @@
+# README HECHO POR LA IA (IA utilizada Claude Code Sonnet 5.5)
+
 # Parcial 2 - Programación III (Elixir) - Problema 1: Robot de rescate
 
 Robot que va de S a M con energía limitada B, sin repetir casillas. Encuentra todos los recorridos simples, los de menos movimientos y los de menor energía, y dibuja la ruta óptima en un SVG.
