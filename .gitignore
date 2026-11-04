@@ -1,0 +1,8 @@
+# Salidas generadas al ejecutar los programas
+salida/
+
+# Archivos de compilacion y del editor
+_build/
+.elixir_ls/
+*.beam
+.vscode/
