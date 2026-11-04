@@ -38,4 +38,6 @@ Lee `entrada/rescate` y escribe en `salida/rescate`. También se puede indicar l
 - El orden de los movimientos es: arriba, derecha, abajo, izquierda. En un empate de energía, el SVG dibuja el primer recorrido encontrado en ese orden.
 
 ## Autores
-(nombres del grupo)
+Eric Santiago Correa Alzate
+Nicolay Ramirez Ramirez
+Juan Jose Marin Carmona
