@@ -1,0 +1,7 @@
+======================================
+RESUMEN DE EJECUCIÓN DEL PROYECTO
+======================================
+Total de planes válidos: 2
+Penalización mínima alcanzada: 0
+Planes óptimos con penalización mínima (1):
+  - Orden: A !' B !' C !' D !' E
