@@ -1,0 +1,6 @@
+# edificio con varios errores
+X X X X X X
+X S . L M X
+X . Z . . X
+X . . . .
+X S X X X X
